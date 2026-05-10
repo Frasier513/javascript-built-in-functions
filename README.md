@@ -2,7 +2,7 @@
 
 ## 📚 Course
 Full Stack Software Development: Building Scalable Cloud Applications  
-Great Learning — May 2025 Cohort
+May 2025 Cohort
 
 ## 📝 About
 Comprehensive project utilizing JavaScript's built-in array methods (map, filter, reduce), string methods, Math object, and Date API.
